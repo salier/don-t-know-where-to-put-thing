@@ -1,0 +1,190 @@
+23:55:31.866: CPU Name: Intel(R) Core(TM) i9-9900KS CPU @ 4.00GHz
+23:55:31.866: CPU Speed: 4008MHz
+23:55:31.866: Physical Cores: 8, Logical Cores: 16
+23:55:31.866: Physical Memory: 32699MB Total, 26457MB Free
+23:55:31.866: Windows Version: 10.0 Build 19042 (release: 2009; revision: 1052; 64-bit)
+23:55:31.866: Running as administrator: true
+23:55:31.866: Aero is Enabled (Aero is always on for windows 8 and above)
+23:55:31.866: Windows 10 Gaming Features:
+23:55:31.866: 	Game Bar: On
+23:55:31.866: 	Game DVR: On
+23:55:31.866: 	Game DVR Background Recording: Off
+23:55:31.867: Sec. Software Status:
+23:55:31.868: 
+23:55:31.868: 
+23:55:31.868: Current Date/Time: 2021-06-29, 23:55:31
+23:55:31.868: Browser Hardware Acceleration: true
+23:55:31.868: Portable mode: false
+23:55:32.118: OBS 27.0.1 (64-bit, windows)
+23:55:32.118: ---------------------------------
+23:55:32.118: ---------------------------------
+23:55:32.118: audio settings reset:
+23:55:32.118: 	samples per sec: 48000
+23:55:32.118: 	speakers:        2
+23:55:32.119: ---------------------------------
+23:55:32.119: Initializing D3D11...
+23:55:32.119: Available Video Adapters: 
+23:55:32.120: 	Adapter 0: NVIDIA GeForce RTX 2080 SUPER
+23:55:32.120: 	  Dedicated VRAM: 4104126464
+23:55:32.120: 	  Shared VRAM:    4258865152
+23:55:32.120: 	  PCI ID:         10de:1e81
+23:55:32.120: 	  Driver Version: 27.21.14.5671
+23:55:32.120: 	  output 0: pos={0, 0}, size={2560, 1440}, attached=true, refresh=59, name=Q3277
+23:55:32.120: 	  output 1: pos={2560, 0}, size={900, 1440}, attached=true, refresh=60, name=DELL E198WFP
+23:55:32.122: Loading up D3D11 on adapter NVIDIA GeForce RTX 2080 SUPER (0)
+23:55:32.164: D3D11 loaded successfully, feature level used: b000
+23:55:32.164: DXGI increase maximum frame latency success
+23:55:32.164: D3D11 GPU priority setup success
+23:55:32.452: ---------------------------------
+23:55:32.452: video settings reset:
+23:55:32.452: 	base resolution:   1920x1080
+23:55:32.452: 	output resolution: 1920x1080
+23:55:32.452: 	downscale filter:  Bicubic
+23:55:32.452: 	fps:               30/1
+23:55:32.452: 	format:            NV12
+23:55:32.452: 	YUV mode:          709/Partial
+23:55:32.452: NV12 texture support enabled
+23:55:32.453: Audio monitoring device:
+23:55:32.453: 	name: 默认
+23:55:32.453: 	id: default
+23:55:32.453: ---------------------------------
+23:55:32.454: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+23:55:32.457: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+23:55:32.457: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+23:55:32.458: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+23:55:32.475: [AMF] Unable to load 'amfrt64.dll', error code 126.
+23:55:32.476: [AMF] AMF Test failed due to one or more errors.
+23:55:32.476: Failed to initialize module 'enc-amf.dll'
+23:55:32.482: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+23:55:32.485: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+23:55:32.485: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+23:55:32.488: [obs-browser]: Version 2.14.3
+23:55:32.488: [obs-browser]: CEF Version 75.1.16+g16a67c4+chromium-75.0.3770.100
+23:55:32.490: NVENC supported
+23:55:32.491: [noise suppress: Nvidia RTX denoiser disabled, redistributable not found]
+23:55:32.590: VLC found, VLC video source enabled
+23:55:32.596: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+23:55:32.596: No blackmagic support
+23:55:32.599: ---------------------------------
+23:55:32.599:   Loaded Modules:
+23:55:32.599:     win-wasapi.dll
+23:55:32.599:     win-mf.dll
+23:55:32.599:     win-dshow.dll
+23:55:32.599:     win-decklink.dll
+23:55:32.599:     win-capture.dll
+23:55:32.599:     vlc-video.dll
+23:55:32.599:     text-freetype2.dll
+23:55:32.599:     rtmp-services.dll
+23:55:32.599:     obs-x264.dll
+23:55:32.599:     obs-vst.dll
+23:55:32.599:     obs-transitions.dll
+23:55:32.600:     obs-text.dll
+23:55:32.600:     obs-qsv11.dll
+23:55:32.600:     obs-outputs.dll
+23:55:32.600:     obs-filters.dll
+23:55:32.600:     obs-ffmpeg.dll
+23:55:32.600:     obs-browser.dll
+23:55:32.600:     image-source.dll
+23:55:32.600:     frontend-tools.dll
+23:55:32.600:     enc-amf.dll
+23:55:32.600:     decklink-ouput-ui.dll
+23:55:32.600:     decklink-captions.dll
+23:55:32.600:     coreaudio-encoder.dll
+23:55:32.600: ---------------------------------
+23:55:32.600: ==== Startup complete ===============================================
+23:55:32.603: All scene data cleared
+23:55:32.603: ------------------------------------------------
+23:55:32.632: WASAPI: Device '耳机 (Surface Headphones Stereo)' [44100 Hz] initialized
+23:55:32.632: [Loaded global audio device]: '桌面音频'
+23:55:32.651: WASAPI: Device 'VoiceMeeter VAIO3 Output (VB-Audio VoiceMeeter VAIO3)' [44100 Hz] initialized
+23:55:32.651: [Loaded global audio device]: '麦克风/Aux'
+23:55:32.651: [duplicator-monitor-capture: '显示器采集'] update settings:
+23:55:32.651: 	display: 1 (2560x1440)
+23:55:32.651: 	cursor: true
+23:55:32.651: 	method: DXGI
+23:55:32.652: Switched to scene '场景'
+23:55:32.652: ------------------------------------------------
+23:55:32.652: Loaded scenes:
+23:55:32.652: - scene '场景':
+23:55:32.652:     - source: '显示器采集' (monitor_capture)
+23:55:32.652: ------------------------------------------------
+23:55:32.680: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: 桌面音频)
+23:55:32.680: 
+23:55:34.135: Virtual output started
+23:55:34.137: ==== Virtual Camera Start ==========================================
+23:57:54.319: Output 'virtualcam_output': stopping
+23:57:54.319: Output 'virtualcam_output': Total frames output: 4204
+23:57:54.319: Output 'virtualcam_output': Total drawn frames: 4205
+23:57:54.319: ==== Virtual Camera Stop ===========================================
+23:57:54.321: Virtual output stopped
+23:58:07.535: ==== Shutting down ==================================================
+23:58:07.542: WASAPI: Device '耳机 (Surface Headphones Stereo)' Terminated
+23:58:07.544: WASAPI: Device 'VoiceMeeter VAIO3 Output (VB-Audio VoiceMeeter VAIO3)' Terminated
+23:58:07.546: All scene data cleared
+23:58:07.546: ------------------------------------------------
+23:58:07.623: [Scripting] Total detached callbacks: 0
+23:58:07.629: Freeing OBS context data
+23:58:07.644: == Profiler Results =============================
+23:58:07.644: run_program_init: 902.372 ms
+23:58:07.644:  ┣OBSApp::AppInit: 15.181 ms
+23:58:07.644:  ┃ ┗OBSApp::InitLocale: 2.326 ms
+23:58:07.644:  ┗OBSApp::OBSInit: 879.916 ms
+23:58:07.644:    ┣obs_startup: 2.186 ms
+23:58:07.644:    ┗OBSBasic::OBSInit: 627.977 ms
+23:58:07.644:      ┣OBSBasic::InitBasicConfig: 0.227 ms
+23:58:07.644:      ┣OBSBasic::ResetAudio: 0.085 ms
+23:58:07.644:      ┣OBSBasic::ResetVideo: 334.386 ms
+23:58:07.644:      ┣OBSBasic::InitOBSCallbacks: 0.004 ms
+23:58:07.644:      ┣OBSBasic::InitHotkeys: 0.027 ms
+23:58:07.644:      ┣obs_load_all_modules: 145.965 ms
+23:58:07.644:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 1.396 ms
+23:58:07.644:      ┃ ┣obs_init_module(decklink-captions.dll): 0.016 ms
+23:58:07.644:      ┃ ┣obs_init_module(decklink-ouput-ui.dll): 0.36 ms
+23:58:07.644:      ┃ ┣obs_init_module(enc-amf.dll): 17.149 ms
+23:58:07.644:      ┃ ┣obs_init_module(frontend-tools.dll): 2.99 ms
+23:58:07.644:      ┃ ┣obs_init_module(image-source.dll): 0.004 ms
+23:58:07.644:      ┃ ┣obs_init_module(obs-browser.dll): 0.174 ms
+23:58:07.644:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 0.479 ms
+23:58:07.644:      ┃ ┃ ┗nvenc_check: 0.455 ms
+23:58:07.644:      ┃ ┣obs_init_module(obs-filters.dll): 0.027 ms
+23:58:07.644:      ┃ ┣obs_init_module(obs-outputs.dll): 0.005 ms
+23:58:07.644:      ┃ ┣obs_init_module(obs-qsv11.dll): 89.174 ms
+23:58:07.644:      ┃ ┣obs_init_module(obs-text.dll): 0.149 ms
+23:58:07.644:      ┃ ┣obs_init_module(obs-transitions.dll): 0.005 ms
+23:58:07.644:      ┃ ┣obs_init_module(obs-vst.dll): 0.001 ms
+23:58:07.644:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+23:58:07.644:      ┃ ┣obs_init_module(rtmp-services.dll): 0.227 ms
+23:58:07.644:      ┃ ┣obs_init_module(text-freetype2.dll): 0.027 ms
+23:58:07.644:      ┃ ┣obs_init_module(vlc-video.dll): 0.776 ms
+23:58:07.644:      ┃ ┣obs_init_module(win-capture.dll): 1.664 ms
+23:58:07.644:      ┃ ┣obs_init_module(win-decklink.dll): 2.5 ms
+23:58:07.644:      ┃ ┣obs_init_module(win-dshow.dll): 0.697 ms
+23:58:07.644:      ┃ ┣obs_init_module(win-mf.dll): 0 ms
+23:58:07.644:      ┃ ┣obs_init_module(win-wasapi.dll): 0.004 ms
+23:58:07.644:      ┃ ┗reset_win32_symbol_paths: 0.156 ms
+23:58:07.644:      ┣OBSBasic::ResetOutputs: 0.159 ms
+23:58:07.644:      ┣OBSBasic::CreateHotkeys: 0.043 ms
+23:58:07.644:      ┣OBSBasic::InitService: 1.178 ms
+23:58:07.644:      ┣OBSBasic::InitPrimitives: 0.085 ms
+23:58:07.644:      ┗OBSBasic::Load: 50.565 ms
+23:58:07.644: obs_hotkey_thread(25 ms): min=0.002 ms, median=0.003 ms, max=1.398 ms, 99th percentile=0.229 ms, 100% below 25 ms
+23:58:07.644: audio_thread(Audio): min=0 ms, median=0.021 ms, max=0.275 ms, 99th percentile=0.107 ms
+23:58:07.644: obs_graphics_thread(33.3333 ms): min=0.09 ms, median=0.656 ms, max=17.02 ms, 99th percentile=2.656 ms, 100% below 33.333 ms
+23:58:07.644:  ┣tick_sources: min=0.001 ms, median=0.17 ms, max=5.623 ms, 99th percentile=0.686 ms
+23:58:07.644:  ┣output_frame: min=0.049 ms, median=0.411 ms, max=16.159 ms, 99th percentile=1.442 ms
+23:58:07.644:  ┃ ┣gs_context(video->graphics): min=0.049 ms, median=0.113 ms, max=15.852 ms, 99th percentile=0.46 ms
+23:58:07.644:  ┃ ┃ ┣render_video: min=0.003 ms, median=0.028 ms, max=0.297 ms, 99th percentile=0.118 ms
+23:58:07.644:  ┃ ┃ ┃ ┣render_main_texture: min=0.001 ms, median=0.018 ms, max=0.254 ms, 99th percentile=0.075 ms
+23:58:07.644:  ┃ ┃ ┃ ┣render_convert_texture: min=0.005 ms, median=0.006 ms, max=0.063 ms, 99th percentile=0.034 ms, 0.90333 calls per parent call
+23:58:07.644:  ┃ ┃ ┃ ┗stage_output_texture: min=0 ms, median=0.002 ms, max=0.023 ms, 99th percentile=0.006 ms, 0.90333 calls per parent call
+23:58:07.644:  ┃ ┃ ┣gs_flush: min=0.032 ms, median=0.084 ms, max=0.588 ms, 99th percentile=0.336 ms
+23:58:07.644:  ┃ ┃ ┗download_frame: min=0 ms, median=0.001 ms, max=15.792 ms, 99th percentile=0.005 ms, 0.90333 calls per parent call
+23:58:07.644:  ┃ ┗output_video_data: min=0.268 ms, median=0.302 ms, max=1.352 ms, 99th percentile=0.991 ms, 0.903115 calls per parent call
+23:58:07.644:  ┗render_displays: min=0 ms, median=0.061 ms, max=1.918 ms, 99th percentile=0.708 ms
+23:58:07.644: video_thread(video): min=0.18 ms, median=0.225 ms, max=1.245 ms, 99th percentile=0.776 ms
+23:58:07.644: =================================================
+23:58:07.644: == Profiler Time Between Calls ==================
+23:58:07.644: obs_hotkey_thread(25 ms): min=24.695 ms, median=25.52 ms, max=26.413 ms, 48.5827% within ±2% of 25 ms (0% lower, 51.4173% higher)
+23:58:07.644: obs_graphics_thread(33.3333 ms): min=33.249 ms, median=33.333 ms, max=33.417 ms, 100% within ±2% of 33.333 ms (0% lower, 0% higher)
+23:58:07.644: =================================================
+23:58:07.655: Number of memory leaks: 0
